@@ -12,7 +12,7 @@ https://www.pixelmator.com/pro/
 
 Menu
 
-![Photos](IMAGENES/webtool/Preview0.JPG)
+![Photos](IMAGENES/webtool/Previews0.JPG)
 
 Middle part
 
@@ -26,6 +26,6 @@ Middle part
 
 ![Photos](IMAGENES/webtool/Preview3.JPG)
 
-Footer
+Footer 
 
 ![Photos](IMAGENES/webtool/Preview4.JPG)
