@@ -12,20 +12,20 @@ https://www.pixelmator.com/pro/
 
 Menu
 
-![Photos](public/IMAGENES/webTool/Preview0.JPG)
+![Photos](public/IMAGENES/webtool/Preview0.JPG)
 
 Middle part
 
-![Photos](public/IMAGENES/webTool/Preview1.JPG)
+![Photos](public/IMAGENES/webtool/Preview1.JPG)
 
 Middle part
 
-![Photos](public/IMAGENES/webTool/Preview2.JPG)
+![Photos](public/IMAGENES/webtool/Preview2.JPG)
 
 Middle part
 
-![Photos](public/IMAGENES/webTool/Preview3.JPG)
+![Photos](public/IMAGENES/webtool/Preview3.JPG)
 
 Middle part
 
-![Photos](public/IMAGENES/webTool/Preview4.JPG)
+![Photos](public/IMAGENES/webtool/Preview4.JPG)
