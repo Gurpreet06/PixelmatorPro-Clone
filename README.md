@@ -1,7 +1,9 @@
 ## PixelmatorPro-Clone
+
 Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. This clone template is built with HTML, CSS and is also mobile friendly.
 
 ## Pixelmator Pro Web
+
 ```
 https://www.pixelmator.com/pro/
 ```
