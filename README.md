@@ -26,6 +26,6 @@ Middle part
 
 ![Photos](IMAGENES/webtool/Preview3.JPG)
 
-Middle part
+Footer
 
 ![Photos](IMAGENES/webtool/Preview4.JPG)
