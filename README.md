@@ -29,3 +29,11 @@ Middle part
 Footer 
 
 ![Photos](IMAGENES/webtool/Preview4.JPG)
+
+Mobile Screen 
+
+![Photos](IMAGENES/webtool/Preview5.JPG)
+
+Mobile Screen
+
+![Photos](IMAGENES/webtool/Preview6.JPG)
